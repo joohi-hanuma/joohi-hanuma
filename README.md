@@ -4,7 +4,6 @@
 🤖 AI/GenAI Trainee at Calibo AI Academy
 💻 Python | Java | C | Web Technologies
 📊 NumPy | Pandas | Scikit-learn
-🔗 LangGraph | LangChain | Streamlit
 
 ## 🚀 Featured Projects
 
